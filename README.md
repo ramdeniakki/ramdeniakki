@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramdeni+Akshith)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF72C&center=true&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramdeni+Akshith;A+passionate+frontend+developer+from+India)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramdeni+Akshith)](https://git.io/typing-svg)
 
 <!-- Animated subheading -->
 <h3 align="center" style="animation: color-change 4s infinite;">A passionate frontend developer from India</h3>
