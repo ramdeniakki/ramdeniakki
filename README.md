@@ -1,5 +1,8 @@
- <marquee><h1 align="center">Hi 👋, I'm Ramdeni Akshith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="animation: color-change 4s infinite;">Hi 👋, I'm Ramdeni Akshith</h1>
+
+<!-- Animated subheading -->
+<h3 align="center" style="animation: color-change 4s infinite;">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramdeniakki&label=Profile%20views&color=0e75b6&style=flat" alt="ramdeniakki" /> </p>
 
