@@ -1,8 +1,9 @@
+###
 <h2 align="left">Hi 👋! This is Akki</h2>
 
-###
+<p align="left">🌱 I’m currently learning Next.js, DevOps practices like Docker, Kubernetes, AWS, and exploring serverless architecture.<br>💡 I’m passionate about building scalable web applications and learning new technologies to enhance performance and security.<br>📫 Feel free to reach out to me at <a href="mailto:akshithramdeni6@gmail.com">akshithramdeni6@gmail.com</a></p>
+<h3 align="left">💼 My Journey & Expertise</h3> <p align="left">I started my journey as a self-taught developer and quickly fell in love with building web applications. Over the years, I’ve familiar in frontend technologies like HTML, CSS, JavaScript, and modern frameworks such as React.js, and Next.js. I also have experience in backend development with Node.js, Express, and working with databases like MongoDB and PostgreSQL. Currently, I am diving into cloud technologies and learning about containerization, microservices, and serverless architecture to take my skills to the next level.</p>
 
-<p align="left">🌱 I’m currently learning Nextjs &  Devops: Docker,Kubernetes,Aws and more...<br>📫 How to reach me: akshithramdeni6@gmail.com</p>
 
 ###
 
